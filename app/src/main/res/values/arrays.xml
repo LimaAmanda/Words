@@ -1,0 +1,37 @@
+
+ <resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+        <item>Delphi</item>
+        <item>Erlang</item>
+        <item>F#</item>
+        <item>Google Apps Script</item>
+        <item>HolyC (TempleOS)</item>
+        <item>IBM HAScript</item>
+        <item>JavaScript</item>
+        <item>Java </item>
+        <item>Kotlin</item>
+        <item>LabVIEW</item>
+        <item>MFormula language</item>
+        <item>NetLogo</item>
+        <item>Open Programming Language</item>
+        <item>Python</item>
+        <item>Quantum Computation Language</item>
+        <item>Ruby</item>
+        <item>Sql</item>
+        <item>TypeScript</item>
+        <item>Umple</item>
+        <item>Vala</item>
+        <item>WebAssembly</item>
+        <item>XQuery</item>
+        <item>YQL</item>
+        <item>Z Shell</item>
+    </string-array>
+ </resources>
